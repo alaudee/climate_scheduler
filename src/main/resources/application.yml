@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: climate_scheduler
+    
+app:
+  application-token: 952daa39ee36922c9d33a791ed83da1f
+    
+urls:
+  get-country-info: http://apiadvisor.climatempo.com.br
